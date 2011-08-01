@@ -1,6 +1,6 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /**
- * Abstract controller class for automatic templating.
+ * Flash Notifications..
  *
  * @package    Notices
  * @category   Library
